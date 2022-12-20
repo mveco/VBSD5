@@ -1,0 +1,23 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>Marija Vecovska</foaf:name>
+<foaf:givenname>Marija</foaf:givenname>
+<foaf:family_name>Vecovska</foaf:family_name>
+<foaf:nick>Maca</foaf:nick>
+<foaf:mbox_sha1sum>cad0e3a2750c26dfcfb52ab3e86a5fea624965ef</foaf:mbox_sha1sum>
+<foaf:homepage rdf:resource="///"/>
+<foaf:phone rdf:resource="tel:072-228-773"/>
+<foaf:workplaceHomepage rdf:resource="https://www.finki.ukim.mk/"/>
+<foaf:workInfoHomepage rdf:resource="Student"/>
+<foaf:schoolHomepage rdf:resource="https://www.finki.ukim.mk/"/></foaf:Person>
+</rdf:RDF>
