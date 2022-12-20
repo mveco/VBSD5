@@ -24,9 +24,9 @@
   foaf:schoolHomepage <https://www.finki.ukim.mk/> ;
   foaf:knows [
     a foaf:Person ;
-    foaf:name "Jana Miceva" ;
-    foaf:mbox_sha1sum "d47ebe8dd419f1ae2ad2728de77562591a6cbcb8" ;
-    rdfs:seeAlso <https://raw.githubusercontent.com/janamiceva/VBSH5/main/foaf.ttl.txt>
+    foaf:name "Dragan Bozhinoski" ;
+    foaf:mbox_sha1sum "9d37b3a431ff038aabd6517e7fc89bfb9e10e766" ;
+    rdfs:seeAlso <https://raw.githubusercontent.com/draganbozhinoski/WBS_D5/main/foaf.ttl>
   ], [
     a foaf:Person ;
     foaf:name "Petar Partaloski" ;
