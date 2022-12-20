@@ -11,13 +11,27 @@
 </foaf:PersonalProfileDocument>
 <foaf:Person rdf:ID="me">
 <foaf:name>Marija Vecovska</foaf:name>
+<foaf:title>ms</foaf:title>
 <foaf:givenname>Marija</foaf:givenname>
 <foaf:family_name>Vecovska</foaf:family_name>
 <foaf:nick>Maca</foaf:nick>
-<foaf:mbox_sha1sum>cad0e3a2750c26dfcfb52ab3e86a5fea624965ef</foaf:mbox_sha1sum>
-<foaf:homepage rdf:resource="///"/>
+<foaf:mbox_sha1sum>634cc0f51d30732ef524ee5f12669745bc418481</foaf:mbox_sha1sum>
+<foaf:homepage rdf:resource="https://github.com/mveco/VBSD5/blob/main/foaf.ttl"/>
 <foaf:phone rdf:resource="tel:072-228-773"/>
-<foaf:workplaceHomepage rdf:resource="https://www.finki.ukim.mk/"/>
-<foaf:workInfoHomepage rdf:resource="Student"/>
-<foaf:schoolHomepage rdf:resource="https://www.finki.ukim.mk/"/></foaf:Person>
+<foaf:workplaceHomepage rdf:resource="https://zk.mk/"/>
+<foaf:workInfoHomepage rdf:resource="Intern"/>
+<foaf:schoolHomepage rdf:resource="https://www.finki.ukim.mk/"/>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Jana</foaf:name>
+<foaf:mbox_sha1sum>d47ebe8dd419f1ae2ad2728de77562591a6cbcb8</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/janamiceva/VBSH5/main/foaf.ttl.txt"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Jane Doe</foaf:name>
+<foaf:mbox_sha1sum>8fe7ff4ec58cee12ab0047f9982a03cdd578890a</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>John Doe</foaf:name>
+<foaf:mbox_sha1sum>2775589047e92c2e0988fe7d7682cbfc54cf4c6c</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
 </rdf:RDF>
